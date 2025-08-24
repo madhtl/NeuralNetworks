@@ -1,0 +1,6 @@
+# Neural Network from Scratch, hebbian weight matrices, sigmoid f
+Solution of backpropagation algorithm from scratch, using only numpy, the only additional libraries are:
+sklearn.datasets -> access to a simple (iris) dataset
+matplotlib..pyplot -> for visualisation purposes
+
+Valuable info available in the notebook.
